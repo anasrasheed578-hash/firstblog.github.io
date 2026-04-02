@@ -1,29 +1,57 @@
----
 layout: post
-title: "The Bridge Between Logic and Data: My Engineering Journey"
-date: 2026-04-02
+title: "My Journey in Computer Engineering and Database Systems"
+date: 2026-04-03
 categories: portfolio
----
+Hello, I'm Anas Shaheer 👋
 
-# Hello, I'm Abdul Ahad 👋
+I am a Computer Engineering student at UET Faisalabad. I still remember my first day on campus—walking into the classrooms and labs, feeling excited and curious. That day started my journey in learning how to connect digital circuits with data and computer programs.
 
-I am a **Computer Engineering** student at UET with a passion for building efficient systems and extracting insights from data. My work spans the entire spectrum of computing—from the fundamental logic of hardware to the complexity of predictive AI.
+Since then, I have learned a lot through experiments, projects, and teamwork. I realized that engineering is not just about solving problems—it’s about creating systems that are useful, reliable, and simple to understand.
 
-### 🚀 Key Projects & Interests
+📍 Location: Lahore
+📧 Email: anasrasheed578@gmail.com
 
-* **Data Science & ML:** I specialize in predictive modeling. My recent project involves using **Random Forest** and **Ensemble methods** to analyze and predict heart attack risks.
-* **System Design:** I enjoy the puzzle of **Digital Logic Design (DLD)**, whether it’s simplifying Boolean expressions or building circuit schematics like Half Adders using NOR gates.
-* **Software Development:** I have a strong foundation in **C++, C#, and Python**, focusing on data structures and clean, simple implementation.
+🚀 My Projects & Interests
+Data Science & Machine Learning:
+I made a Machine Learning project in Python that predicts heart attack risks using Random Forest and Ensemble methods. This project helped me understand how data can be turned into useful insights.
+# Example: Simple Python ML code snippet
+from sklearn.ensemble import RandomForestClassifier
+model = RandomForestClassifier()
+model.fit(X_train, y_train)
+predictions = model.predict(X_test)
+Digital Logic & System Design:
+I enjoy solving puzzles with Boolean expressions and designing circuits like Half Adders using NOR gates. Working on circuits helped me think logically and carefully.
+Software Development & Databases:
+I write programs in Python, C++, and C#, focusing on algorithms, clean code, and database systems that can work well in real projects.
+Learning Journey:
+I also learned a lot from working with classmates, attending workshops, and taking part in coding challenges. Each experience made me a better problem solver.
+🖥️ Some Tools and Workspaces I Use
 
-### 🛠️ Technical Tech Stack
 
-* **Languages:** Python, C++, C#, SQL
-* **Data Science:** Pandas, Scikit-learn, Matplotlib, Seaborn
-* **Tools:** Git, GitHub, LaTeX, Digital Logic Simulators
+My workspace for coding and projects
 
----
 
-> "I believe that good engineering is about making complex problems look simple."
+Writing Python, C++, and C# programs
 
-### Let's Connect
-If you're interested in collaborating or just want to talk about tech (or the latest PSL match!), feel free to reach out via GitHub or LinkedIn.
+
+Exploring technology and hardware systems
+
+🛠️ Technical Skills
+Languages: Python, C++, C#, SQL
+Data Science Tools: Pandas, Scikit-learn, Matplotlib, Seaborn
+Other Tools: Git, GitHub, LaTeX, Digital Logic Simulators
+
+"Good engineering is not just solving problems—it’s making complex ideas easy to understand."
+
+Looking Ahead
+
+From my first day at UET Faisalabad to completing projects in circuits and data, my journey has been full of learning and growth. I want to explore more in AI, system design, and databases, and build projects that combine logic, data, and creativity.
+
+Let’s Connect
+
+I love learning, building, and sharing ideas. If you are also interested in technology, data, or system design, let’s work together and create something great!
+
+📧 Email: anasrasheed578@gmail.com
+
+📍 Location: Lahore
+
