@@ -47,42 +47,6 @@ These areas allow me to explore both the **analytical** and **creative** sides o
 
 ---
 
-## • My Skills and Goals
-
-Over time, I have developed technical and academic skills that support both my studies and personal projects. I continue to improve these skills by exploring new tools, programming methods, and technologies.
-
-### Skills I am developing:
-- **Python Programming**
-- **C++ / Programming Logic**
-- **Database Design**
-- **Problem Analysis**
-- **Technical Documentation**
-- **Logical Thinking**
-
-These skills are helping me grow as a student and preparing me for more advanced work in engineering and software-related fields.
-
-### My goals:
-- Strengthen my programming and problem-solving abilities
-- Gain more practical experience through projects
-- Improve my understanding of system development
-- Build useful and meaningful technical solutions
-
----
-
-## • Future Goals
-
-My future goal is to build a strong career in fields that combine innovation, intelligence, and system-level thinking. I want to continue learning and applying my knowledge in areas that create real-world impact.
-
-### In the future, I aim to:
-- Build a strong career in **Artificial Intelligence**
-- Work in **System Design and Embedded Computing**
-- Improve my expertise in **Database Engineering**
-- Create projects that combine **logic, creativity, and innovation**
-
-I want to continue learning and building systems that solve real-world problems in a smart and meaningful way.
-
----
-
 ## • Data Science and Machine Learning
 
 One of the most impactful projects I worked on was a **Machine Learning-based heart attack risk prediction system** using **Python**. In this project, I used **Random Forest** and **Ensemble methods** to analyze data and generate predictions.
@@ -102,3 +66,37 @@ from sklearn.ensemble import RandomForestClassifier
 model = RandomForestClassifier()
 model.fit(X_train, y_train)
 predictions = model.predict(X_test)
+## • My Skills
+
+Over time, I have developed technical and academic skills that support both my studies and personal projects. I continue to improve these skills by exploring new tools, programming methods, and technologies.
+
+### Skills I am developing:
+- **Python Programming**
+- **C++ / Programming Logic**
+- **Database Design**
+- **Problem Analysis**
+- **Technical Documentation**
+- **Logical Thinking**
+
+These skills are helping me grow as a student and preparing me for more advanced work in engineering and software-related fields.
+
+---
+
+## • Future Goals
+
+My future goal is to build a strong career in fields that combine innovation, intelligence, and system-level thinking. I want to continue learning and applying my knowledge in areas that create real-world impact.
+
+### In the future, I aim to:
+- Build a strong career in **Artificial Intelligence**
+- Work in **System Design and Embedded Computing**
+- Improve my expertise in **Database Engineering**
+- Create projects that combine **logic, creativity, and innovation**
+
+I want to continue learning and building systems that solve real-world problems in a smart and meaningful way.
+
+---
+
+## • Contact Information
+
+- 📍 **Location:** Lahore  
+- 📧 **Email:** anasrasheed578@gmail.com
