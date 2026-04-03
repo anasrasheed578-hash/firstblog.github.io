@@ -66,6 +66,7 @@ from sklearn.ensemble import RandomForestClassifier
 model = RandomForestClassifier()
 model.fit(X_train, y_train)
 predictions = model.predict(X_test)
+
 ## • My Skills
 
 Over time, I have developed technical and academic skills that support both my studies and personal projects. I continue to improve these skills by exploring new tools, programming methods, and technologies.
