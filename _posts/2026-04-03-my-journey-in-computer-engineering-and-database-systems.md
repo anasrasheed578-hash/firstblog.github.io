@@ -47,7 +47,7 @@ These areas allow me to explore both the **analytical** and **creative** sides o
 
 ---
 
-## • My Skills and Future Goals
+## • My Skills and Goals
 
 Over time, I have developed technical and academic skills that support both my studies and personal projects. I continue to improve these skills by exploring new tools, programming methods, and technologies.
 
@@ -59,7 +59,21 @@ Over time, I have developed technical and academic skills that support both my s
 - **Technical Documentation**
 - **Logical Thinking**
 
-### My future goals:
+These skills are helping me grow as a student and preparing me for more advanced work in engineering and software-related fields.
+
+### My goals:
+- Strengthen my programming and problem-solving abilities
+- Gain more practical experience through projects
+- Improve my understanding of system development
+- Build useful and meaningful technical solutions
+
+---
+
+## • Future Goals
+
+My future goal is to build a strong career in fields that combine innovation, intelligence, and system-level thinking. I want to continue learning and applying my knowledge in areas that create real-world impact.
+
+### In the future, I aim to:
 - Build a strong career in **Artificial Intelligence**
 - Work in **System Design and Embedded Computing**
 - Improve my expertise in **Database Engineering**
