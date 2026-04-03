@@ -67,3 +67,7 @@ from sklearn.ensemble import RandomForestClassifier
 model = RandomForestClassifier()  
 model.fit(X_train, y_train)  
 predictions = model.predict(X_test)
+
+Contact Details:
+Location: Lahore, Pakistan
+Email: anasrasheed578@gmail.com
