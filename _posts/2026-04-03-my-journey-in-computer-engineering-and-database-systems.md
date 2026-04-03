@@ -15,9 +15,6 @@ I still remember my very first day at university. Walking into the labs and clas
 
 To me, engineering is not just about solving problems — it is about creating systems that are **efficient, meaningful, reliable, and easy to understand**.
 
-📍 **Location:** Lahore  
-📧 **Email:** anasrasheed578@gmail.com  
-
 ---
 
 ## My Academic Journey
