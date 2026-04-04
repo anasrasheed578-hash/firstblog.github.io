@@ -5,10 +5,8 @@ order: 4
 ---
 ## • About Me  
 
-I am Anas Shaheer, a Computer Engineering student at UET Faisalabad with an interest in technology, systems, and problem solving.  
+I am Muhammad Anas Shaheer, a Computer Engineering student at UET Faisalabad with a strong interest in technology and system-based thinking.  
 
-This portfolio represents my learning journey, projects, and skills that I am developing during my studies. I am currently exploring areas such as Machine Learning, Database Systems, and Software Development, while improving my understanding of both hardware and software concepts.  
+I enjoy learning how computers work, from digital logic and hardware to software and data systems. I am currently developing my skills in programming, problem solving, and system design, while exploring areas like Machine Learning and Database Systems.  
 
-I am focused on building a strong foundation in engineering by working on practical projects and continuously learning new tools and technologies.  
-
-Through this portfolio, I aim to showcase my progress, share my work, and document my growth as a future engineer.  
+I am a focused and consistent learner who believes in improving step by step through practice and hard work. My aim is to become a skilled engineer and build systems that are useful, efficient, and reliable.  
