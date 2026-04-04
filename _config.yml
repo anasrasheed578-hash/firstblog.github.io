@@ -14,9 +14,9 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Muhammad Anas Shaheer Porfolio # the main title
+title: Muhammad Anas Shaheer Porfolio
 
-tagline: Where logic meets creativity # it will display as the subtitle
+tagline: 
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
