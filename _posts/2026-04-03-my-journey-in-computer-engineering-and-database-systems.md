@@ -1,12 +1,13 @@
 ---
 layout: post
+![FSD Image](/assets/FSD.jpg)
 title: "My Journey in Computer Engineering and Database Systems"
 date: 2026-04-03
 categories: [portfolio, university, computer-engineering]
 tags: [computer engineering, machine learning, database systems, programming]
 ---
 
-![FSD Image](/assets/FSD.jpg)
+## My Journey in Computer Engineering and Database Systems
 
 Hello, I’m **Anas Shaheer** 👋  
 
@@ -20,9 +21,9 @@ To me, engineering is not just about solving problems — it is about building s
 
 ## • My Academic Journey  
 
-![C Image](/assets/c.jpg)
-
 My academic experience at **UET Faisalabad** has been a strong foundation for my development as a future engineer. Through coursework, labs, and technical assignments, I have explored several important areas of computing and engineering.  
+
+![C Image](/assets/c.jpg)
 
 ### Key learning areas:
 - Programming Fundamentals  
@@ -37,9 +38,9 @@ Each semester has expanded my understanding of how theoretical concepts are appl
 
 ## • My Projects and Interests  
 
-![Image](/assets/img.jpg)
-
 One of the most exciting parts of my journey has been working on projects that allow me to apply knowledge in practical and creative ways. I enjoy solving problems logically and building systems that are useful and effective.  
+
+![Image](/assets/img.jpg)
 
 ### My main interests include:
 - Machine Learning  
