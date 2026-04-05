@@ -52,7 +52,7 @@ These areas allow me to explore both the analytical and creative sides of engine
 
 ## • Data Science and Machine Learning  
 
-![DM Image](/assets/dm.jpg)
+![DM Image](/assets/DM.jpg)
 
 One of the most impactful projects I worked on was a Machine Learning-based heart attack risk prediction system using Python. In this project, I used Random Forest and Ensemble methods to analyze data and generate predictions.  
 
