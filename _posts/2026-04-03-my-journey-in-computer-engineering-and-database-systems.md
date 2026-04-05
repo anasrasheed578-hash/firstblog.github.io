@@ -2,8 +2,8 @@
 layout: post
 title: "My Journey in Computer Engineering and Database Systems"
 date: 2026-04-03
-categories: portfolio
-tags: [Computer Engineering, Machine Learning, Database Systems, Programming]
+categories: [portfolio, university, computer-engineering]
+tags: [computer engineering, machine learning, database systems, programming]
 ---
 
 # My Journey in Computer Engineering and Database Systems  
