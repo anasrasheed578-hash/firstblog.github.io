@@ -37,6 +37,8 @@ Each semester has expanded my understanding of how theoretical concepts are appl
 
 ## • My Projects and Interests  
 
+![Image](/assets/img.jpg)
+
 One of the most exciting parts of my journey has been working on projects that allow me to apply knowledge in practical and creative ways. I enjoy solving problems logically and building systems that are useful and effective.  
 
 ### My main interests include:
