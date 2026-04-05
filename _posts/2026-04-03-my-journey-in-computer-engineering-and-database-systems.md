@@ -6,7 +6,7 @@ categories: [portfolio, university, computer-engineering]
 tags: [computer engineering, machine learning, database systems, programming]
 ---
 
-## My Journey in Computer Engineering and Database Systems
+## My Journey Of Computer Engineering & Database Systems:
 
 ![FSD Image](/assets/FSD.jpg)
 
@@ -20,7 +20,7 @@ To me, engineering is not just about solving problems — it is about building s
 
 ---
 
-## • My Academic Journey  
+## • My Academic Journey:
 
 My academic experience at **UET Faisalabad** has been a strong foundation for my development as a future engineer. Through coursework, labs, and technical assignments, I have explored several important areas of computing and engineering.  
 
@@ -37,7 +37,7 @@ Each semester has expanded my understanding of how theoretical concepts are appl
 
 ---
 
-## • My Projects and Interests  
+## • My Projects and Interests: 
 
 One of the most exciting parts of my journey has been working on projects that allow me to apply knowledge in practical and creative ways. I enjoy solving problems logically and building systems that are useful and effective.  
 
@@ -54,7 +54,7 @@ These areas allow me to explore both the analytical and creative sides of engine
 
 ---
 
-## • Data Science and Machine Learning  
+## • Data Science and Machine Learning:
 
 ![DM Image](/assets/DM.jpg)
 
@@ -76,7 +76,7 @@ model = RandomForestClassifier()
 model.fit(X_train, y_train)  
 predictions = model.predict(X_test)
 
-## 📞 Contact Details
+## 📞 Contact Details:
 
 - 📍 **Location:** Lahore, Pakistan  
 - 📧 **Email:** anasrasheed578@gmail.com  
