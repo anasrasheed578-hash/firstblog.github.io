@@ -8,11 +8,11 @@ tags: [computer engineering, machine learning, database systems, programming]
 
 # My Journey in Computer Engineering and Database Systems  
 
+![FSD Image](/assets/FSD.jpg)
+
 Hello, I’m **Anas Shaheer** 👋  
 
 I am a **Computer Engineering student at UET Faisalabad**, passionate about connecting hardware, software, and data systems. My journey in technology began with curiosity — a simple desire to understand how computers work, how circuits respond, and how data can be transformed into meaningful solutions.
-
-![FSD Image](/assets/FSD.jpg)
 
 I still remember my very first day at university. Walking into the labs and classrooms, I felt both excited and inspired. That day marked the beginning of a journey filled with learning, experimentation, problem-solving, and growth. Since then, every project, every challenge, and every lesson has helped shape my understanding of engineering and strengthened my passion for innovation.  
 
