@@ -20,7 +20,6 @@ To me, engineering is not just about solving problems — it is about building s
 
 ## • My Academic Journey  
 
-![Image Description](/assets/images.jpg)
 
 My academic experience at **UET Faisalabad** has been a strong foundation for my development as a future engineer. Through coursework, labs, and technical assignments, I have explored several important areas of computing and engineering.  
 
@@ -52,7 +51,6 @@ These areas allow me to explore both the analytical and creative sides of engine
 
 ## • Data Science and Machine Learning  
 
-![Image Description](/assets/download.jpg)
 
 One of the most impactful projects I worked on was a Machine Learning-based heart attack risk prediction system using Python. In this project, I used Random Forest and Ensemble methods to analyze data and generate predictions.  
 
