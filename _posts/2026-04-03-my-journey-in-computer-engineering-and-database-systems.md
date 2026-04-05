@@ -1,6 +1,5 @@
 ---
 layout: post
-![FSD Image](/assets/FSD.jpg)
 title: "My Journey in Computer Engineering and Database Systems"
 date: 2026-04-03
 categories: [portfolio, university, computer-engineering]
@@ -8,6 +7,8 @@ tags: [computer engineering, machine learning, database systems, programming]
 ---
 
 ## My Journey in Computer Engineering and Database Systems
+
+![FSD Image](/assets/FSD.jpg)
 
 Hello, I’m **Anas Shaheer** 👋  
 
