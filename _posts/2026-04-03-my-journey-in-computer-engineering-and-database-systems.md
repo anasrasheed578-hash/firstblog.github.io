@@ -20,6 +20,7 @@ To me, engineering is not just about solving problems — it is about building s
 
 ## • My Academic Journey  
 
+![C Image](/assets/c.jpg)
 
 My academic experience at **UET Faisalabad** has been a strong foundation for my development as a future engineer. Through coursework, labs, and technical assignments, I have explored several important areas of computing and engineering.  
 
@@ -51,6 +52,7 @@ These areas allow me to explore both the analytical and creative sides of engine
 
 ## • Data Science and Machine Learning  
 
+![DM Image](/assets/dm.jpg)
 
 One of the most impactful projects I worked on was a Machine Learning-based heart attack risk prediction system using Python. In this project, I used Random Forest and Ensemble methods to analyze data and generate predictions.  
 
@@ -70,6 +72,7 @@ model = RandomForestClassifier()
 model.fit(X_train, y_train)  
 predictions = model.predict(X_test)
 
-Contact Details:
-Location: Lahore, Pakistan
-Email: anasrasheed578@gmail.com
+## 📞 Contact Details
+
+- 📍 **Location:** Lahore, Pakistan  
+- 📧 **Email:** anasrasheed578@gmail.com  
