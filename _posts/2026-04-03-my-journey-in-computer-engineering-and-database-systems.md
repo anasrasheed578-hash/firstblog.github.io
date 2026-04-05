@@ -10,7 +10,9 @@ tags: [computer engineering, machine learning, database systems, programming]
 
 Hello, I’m **Anas Shaheer** 👋  
 
-I am a **Computer Engineering student at UET Faisalabad**, passionate about connecting hardware, software, and data systems. My journey in technology began with curiosity — a simple desire to understand how computers work, how circuits respond, and how data can be transformed into meaningful solutions.  
+I am a **Computer Engineering student at UET Faisalabad**, passionate about connecting hardware, software, and data systems. My journey in technology began with curiosity — a simple desire to understand how computers work, how circuits respond, and how data can be transformed into meaningful solutions.
+
+![FSD Image](/assets/FSD.jpg)
 
 I still remember my very first day at university. Walking into the labs and classrooms, I felt both excited and inspired. That day marked the beginning of a journey filled with learning, experimentation, problem-solving, and growth. Since then, every project, every challenge, and every lesson has helped shape my understanding of engineering and strengthened my passion for innovation.  
 
@@ -19,6 +21,8 @@ To me, engineering is not just about solving problems — it is about building s
 ---
 
 ## • My Academic Journey  
+
+![Image Description](/assets/images.jpg)
 
 My academic experience at **UET Faisalabad** has been a strong foundation for my development as a future engineer. Through coursework, labs, and technical assignments, I have explored several important areas of computing and engineering.  
 
@@ -50,9 +54,9 @@ These areas allow me to explore both the analytical and creative sides of engine
 
 ## • Data Science and Machine Learning  
 
-One of the most impactful projects I worked on was a Machine Learning-based heart attack risk prediction system using Python. In this project, I used Random Forest and Ensemble methods to analyze data and generate predictions.  
-
 ![Image Description](/assets/download.jpg)
+
+One of the most impactful projects I worked on was a Machine Learning-based heart attack risk prediction system using Python. In this project, I used Random Forest and Ensemble methods to analyze data and generate predictions.  
 
 ### What I learned from this project:
 - Model Training  
