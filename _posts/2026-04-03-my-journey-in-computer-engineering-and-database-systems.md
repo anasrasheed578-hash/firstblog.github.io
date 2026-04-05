@@ -6,7 +6,7 @@ categories: [portfolio, university, computer-engineering]
 tags: [computer engineering, machine learning, database systems, programming]
 ---
 
-![FSD Image](/assets/FSD.jpg)
+<img src="/assets/FSD.jpg" alt="FSD Image">
 
 Hello, I’m **Anas Shaheer** 👋  
 
@@ -20,7 +20,7 @@ To me, engineering is not just about solving problems — it is about building s
 
 ## • My Academic Journey  
 
-![C Image](/assets/c.jpg)
+<img src="/assets/c.jpg" alt="C Image">
 
 My academic experience at **UET Faisalabad** has been a strong foundation for my development as a future engineer. Through coursework, labs, and technical assignments, I have explored several important areas of computing and engineering.  
 
@@ -52,7 +52,7 @@ These areas allow me to explore both the analytical and creative sides of engine
 
 ## • Data Science and Machine Learning  
 
-![DM Image](/assets/DM.jpg)
+<img src="/assets/DM.jpg" alt="DM Image">
 
 One of the most impactful projects I worked on was a Machine Learning-based heart attack risk prediction system using Python. In this project, I used Random Forest and Ensemble methods to analyze data and generate predictions.  
 
