@@ -2,7 +2,7 @@
 layout: post
 title: "My Journey in Computer Engineering and Database Systems"
 date: 2026-04-03
-categories: [portfolio, university, computer-engineering]
+categories: [portfolio, university]
 tags: [computer engineering, machine learning, database systems, programming]
 ---
 
@@ -54,12 +54,27 @@ These areas allow me to explore both the analytical and creative sides of engine
 
 ---
 
+## • Challenges and Real-Life Experiences:
+
+Along with learning and growth, my journey also included some difficult and challenging experiences that taught me important life lessons.
+
+When I first planned my hostel accommodation, I paid for a **dual room at UET Lahore** as I was promised better living conditions. However, after being transferred to the **UET Faisalabad campus**, I was placed in a **five-seater room**, which was very different from what I had expected.
+
+Another issue I faced was related to facilities. The **mess food quality** was not good, and it was difficult to adjust to its taste. Although there is usually transport available from the campus to **Khurrianwala**, one day there was no transport available.
+
+On that day, I had to take a lift from a stranger. During the ride, I faced a very uncomfortable situation. At first, I thought it might be accidental, but I realized it was not. I immediately asked him to stop near a hospital and got off safely.
+
+That moment was very difficult, but I am thankful to Allah that I remained safe. After calming myself, I continued my journey, reached Khurrianwala, and later returned to the university safely.
+
+This experience made me more aware, cautious, and mentally stronger. It taught me the importance of personal safety and trusting your instincts.
+
+---
+
 ## • Data Science and Machine Learning:
 
 One of the most impactful projects I worked on was a Machine Learning-based heart attack risk prediction system using Python. In this project, I used Random Forest and Ensemble methods to analyze data and generate predictions.  
 
 ![DM Image](/assets/DM.jpg)
-
 
 ### What I learned from this project:
 - Model Training  
@@ -76,8 +91,3 @@ from sklearn.ensemble import RandomForestClassifier
 model = RandomForestClassifier()  
 model.fit(X_train, y_train)  
 predictions = model.predict(X_test)
-
-## 📞 Contact Details:
-
-- 📍 **Location:** Lahore, Pakistan  
-- 📧 **Email:** anasrasheed578@gmail.com  
