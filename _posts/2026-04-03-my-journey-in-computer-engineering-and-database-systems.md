@@ -58,6 +58,8 @@ These areas allow me to explore both the analytical and creative sides of engine
 
 Along with learning and growth, my journey also included some difficult and challenging experiences that taught me important life lessons.
 
+![My Image](/assets/b.jpg)
+
 When I first planned my hostel accommodation, I paid for a **dual room at UET Lahore** as I was promised better living conditions. However, after being transferred to the **UET Faisalabad campus**, I was placed in a **five-seater room**, which was very different from what I had expected.
 
 Another issue I faced was related to facilities. The **mess food quality** was not good, and it was difficult to adjust to its taste. Although there is usually transport available from the campus to **Khurrianwala**, one day there was no transport available.
@@ -91,3 +93,7 @@ from sklearn.ensemble import RandomForestClassifier
 model = RandomForestClassifier()  
 model.fit(X_train, y_train)  
 predictions = model.predict(X_test)
+
+## 📞 Contact Details: 
+- 📍 **Location:** Lahore, Pakistan 
+- 📧 **Email:** anasrasheed578@gmail.com
