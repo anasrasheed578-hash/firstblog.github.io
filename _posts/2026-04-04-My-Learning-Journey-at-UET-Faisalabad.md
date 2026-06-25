@@ -11,8 +11,6 @@ tags:
  - uet faisalabad
 --- 
  
-# My Learning Journey at UET Faisalabad: From Python Programming to Machine Learning and Database Systems
-
 When I joined UET Lahore Faisalabad Campus as a Computer Engineering student, I knew that university life would be different from college, but I did not fully understand how much it would change the way I think and learn. Looking back at my journey so far, I can confidently say that my time at UET Faisalabad has been full of challenges, growth, practical learning, and valuable experiences that have helped me develop both technical and problem-solving skills.
 
 One of the most influential teachers during my journey has been Dr. Bilal Ahmad. Through his courses and guidance, I was introduced to concepts that extended beyond textbooks and helped me understand how technology can solve real-world problems. His focus on practical implementation, Machine Learning projects, and data-driven solutions inspired me to think like an engineer rather than simply a student preparing for exams.
