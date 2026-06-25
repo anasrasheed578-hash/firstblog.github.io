@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Watching the Model Learn: Training and Evaluating Our Diabetes Predictor"
+title: "Training and Evaluating Our Diabetes Predictor"
 date: 2026-06-02
 categories:
   - portfolio
@@ -12,6 +12,7 @@ tags:
   - python
   - university life
   - UET Lahore
+image: "/assets/12.png"
 ---
 
 With our database schema designed, normalized, and populated with real clinical data, our Database Systems project entered the stage I had been most curious about since the very beginning: actually training a model to make predictions from that data. This part of the project sat slightly outside the core syllabus of the course itself, but Dr. Bilal Ahmad had structured the project specifically to push us into this territory, and the week we spent on it taught me as much about discipline and patience as it did about machine learning itself.
