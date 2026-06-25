@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Structured and Relational: My Database Systems Exam and the Project Behind It"
+title: "My Database Systems Exam and the Project Behind It"
 date: 2026-06-17
 categories:
   - portfolio
