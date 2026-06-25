@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "My First Weeks in Programming Fundamentals"
-date: 2026-05-20
+date: 2026-05-10
 categories:
   - portfolio
   - university
