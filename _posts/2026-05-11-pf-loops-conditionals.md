@@ -11,6 +11,7 @@ tags:
   - PF
   - university life
   - UET Lahore
+image: "/assets/3.png"
 ---
 
 There is a particular kind of frustration that comes from writing a loop that almost works. Not a loop that crashes immediately and tells you clearly what went wrong, but one that runs, produces output, and looks correct at first glance — until you check the numbers carefully and realize something is subtly off. I spent a significant part of the week following my first PF struggles deep in exactly that kind of frustration, working through loops and conditionals in a way that taught me more about careful thinking than any single lecture could have.
