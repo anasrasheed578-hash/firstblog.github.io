@@ -1,0 +1,33 @@
+---
+layout: post
+title: "Learning Normalization in Database Systems"
+date: 2026-05-27
+categories:
+  - portfolio
+  - university
+tags:
+  - computer engineering
+  - database systems
+  - normalization
+  - university life
+  - UET Lahore
+---
+
+By the start of June, I had a reasonable handle on entities, attributes, and relationships, and I could sketch a passable ER diagram for most of the small scenarios Dr. Bilal Ahmad gave us in lecture. What I did not yet understand was why a perfectly reasonable-looking table design could still cause serious problems once real data started flowing through it. That gap in my understanding was exactly what the week on normalization was designed to close, and it turned out to be one of the more demanding weeks of the entire course.
+
+Normalization, as it was introduced to us, is a set of rules for organizing data into tables so that redundancy is minimized and the risk of certain kinds of errors is reduced. Before this week, my instinct when designing a table was simply to throw every relevant piece of information into one place — a single table with a student's name, their department, their advisor's name, their advisor's office number, and their enrolled courses, all crammed into one wide table. It felt convenient. Dr. Ahmad spent a good portion of the first lecture of this unit carefully demonstrating exactly why that convenience was an illusion, and a costly one.
+
+The demonstration that stuck with me most involved a small example table where a department name was repeated across dozens of rows, once for every student in that department. If the department later changed its name, every single row would need to be updated, and if even one row was missed, the table would now contain contradictory information about the same department. Worse, if a department had no students enrolled yet, there would be nowhere to even record that the department existed, since the department's information only appeared attached to a student row. These were not hypothetical edge cases dreamed up to scare us. They were exactly the kinds of real anomalies that occur in systems built without normalization in mind, and seeing them laid out so concretely made the abstract goal of "reducing redundancy" feel like a genuinely practical concern rather than an academic ideal.
+
+We moved through the normal forms one at a time, and each one addressed a specific kind of problem. First Normal Form asked a simple question: does every column hold a single, atomic value, or have we accidentally crammed multiple values into one field, like storing a list of phone numbers in a single comma-separated string? Getting comfortable identifying violations of 1NF took less time than I expected, mostly because the violations tend to be visually obvious once you know what to look for. Second Normal Form was harder, because it required understanding the idea of a partial dependency — a non-key attribute that depends on only part of a composite primary key rather than the whole key. I remember working through several practice tables where I correctly identified that something was wrong, but initially misdiagnosed which attribute was causing the problem, confusing a partial dependency with something else entirely until a classmate's question during a group study session made the distinction click for me.
+
+Third Normal Form introduced transitive dependencies, which I found to be the most conceptually subtle of the three. A transitive dependency exists when a non-key attribute depends on another non-key attribute, rather than depending directly on the primary key. The student-advisor-office example was the one that finally made this concrete for me: if a table stores a student's advisor and that advisor's office number, the office number does not really depend on the student at all — it depends on the advisor, who happens to be associated with the student. Recognizing this kind of indirect dependency required a level of attentiveness that 1NF and 2NF had not quite demanded in the same way, since the dependency chain involves a step that is easy to overlook if you are only scanning a table casually.
+
+What helped this material settle in for me was a habit Dr. Ahmad encouraged throughout this unit: working backward from a deliberately unnormalized table, identifying every anomaly it could produce, and only then applying the normal forms one at a time to fix each anomaly in turn. This backward approach — starting from the problem rather than the solution — made each normal form feel like a direct answer to something concrete, rather than an arbitrary rule to memorize. By the time we reached the end of this unit, I found that I could look at almost any unnormalized table and predict, before doing any formal analysis, roughly what kind of problems it was likely to cause downstream.
+
+This week also planted the seed for something that would matter enormously just a few days later. Dr. Ahmad mentioned, while wrapping up the normalization unit, that our upcoming semester project would require us to apply exactly these principles to a real dataset rather than a textbook example, and that the dataset he wanted us to use would be a medical one, chosen specifically because of how carefully such data tends to be recorded. At the time, this felt like a passing comment at the end of a long lecture. Looking back, it was the moment the entire normalization unit stopped being theoretical and started pointing directly toward the project that would consume a significant part of my following weeks.
+
+What I find myself appreciating most, now that the project is finished and I am writing about this week from a later point in the semester, is how patient this unit forced me to be. Normalization rewards slow, methodical checking far more than it rewards quick intuition, and I did not naturally have that patience at the start of the unit. Every table I designed in the days that followed this lecture, I found myself instinctively running through the same mental checklist — atomic values, full functional dependency on the whole key, no transitive dependencies hiding between non-key attributes — almost as a reflex rather than a conscious step. That reflex, built slowly over a single demanding week, turned out to be exactly the discipline our later project would depend on. It is also, I came to realize, one of the clearest examples of how [Dr. Bilal Ahmad](https://www.facebook.com/Dr.BilalAhm) designs his courses — each unit quietly preparing you for the one that follows, in ways you only notice in hindsight.
+
+#ComputerEngineering #DatabaseSystems #Normalization #UETLahore #LearningJourney #DrBilalAhmad #MLwithDrBilalAhmad #MLProject
+
