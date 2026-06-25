@@ -11,6 +11,7 @@ tags:
   - machine learning
   - exhibition
   - UET Lahore
+image: "/assets/14.png"
 ---
 
 Building the diabetes prediction system was one kind of challenge. Standing in front of a room and explaining it, live, to people who had not spent the last several weeks inside our codebase, turned out to be a completely different one. The exhibition on June 10th was where my group and I had to take everything we had built — the normalized database, the SQL pipeline, the trained model, the web interface — and translate it into something a stranger walking up to our table could understand in a few minutes.
