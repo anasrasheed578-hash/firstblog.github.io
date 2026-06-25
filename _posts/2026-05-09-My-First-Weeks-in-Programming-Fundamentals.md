@@ -11,6 +11,7 @@ tags:
   - PF
   - university life
   - UET Lahore
+image: "/assets/1.png"
 ---
 
 Before this semester, I thought I already knew how to think logically. I had done well in mathematics in school, I had picked up a little bit of coding here and there out of curiosity, and I walked into the first Programming Fundamentals lecture with a quiet confidence that I now look back on with some amusement. It took only a couple of weeks for that confidence to be replaced by something more useful: a genuine respect for how differently a computer needs you to think compared to how you think in everyday life.
