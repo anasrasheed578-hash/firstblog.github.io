@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Pf loops conditionals"
-date: 2026-05-25
+date: 2026-05-11
 categories:
   - portfolio
   - university
