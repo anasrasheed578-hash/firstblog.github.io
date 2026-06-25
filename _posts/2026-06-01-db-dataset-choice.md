@@ -12,6 +12,7 @@ tags:
   - medical data
   - university life
   - UET Lahore
+image: "/assets/11.png"
 ---
 
 Every semester project eventually reaches a moment where the abstract requirement document has to turn into an actual decision about what, specifically, you are going to build. For our Database Systems project, that moment arrived in the form of a single, deceptively simple question: what dataset should our group actually use? The answer to that question, and the conversation that led to it, taught me something about applied work that none of the earlier weeks of lecture material had quite managed to convey on their own.
