@@ -1,0 +1,31 @@
+---
+layout: post
+title: "My First Encounter with Database Systems"
+date: 2026-05-22
+categories:
+  - portfolio
+  - university
+tags:
+  - computer engineering
+  - database systems
+  - university life
+  - UET Lahore
+---
+
+Two days after my first real struggle in Programming Fundamentals, I sat in a very different kind of lecture hall, listening to a very different kind of opening statement. Database Systems was being introduced to us for the first time, and within the first ten minutes of that first lecture, I could already tell this course was going to ask something different of me than PF had. PF wanted me to think in sequences of action. This course, from the very start, wanted me to think in structure.
+
+The opening idea presented to us was simple to state but, as I would come to learn over the following weeks, surprisingly deep to actually internalize: a database is not just a place where data sits. It is a deliberate representation of some piece of the real world, designed so that the relationships and rules of that real world are preserved in how the data is organized. A spreadsheet can hold data too, but a spreadsheet does not understand that a student belongs to a department, or that a department offers certain courses, or that an order belongs to a specific customer. A well-designed database understands exactly these things, because the structure itself encodes the relationships, not just the values.
+
+I remember being struck by an example from early on, comparing a messy, unorganized collection of data to a library where books have been thrown onto shelves with no system at all. You could technically find a book eventually, by searching shelf by shelf, but the absence of structure makes every single search slow and unreliable. A library catalog, organized by author, title, and subject, is really just a database — a structure designed in advance so that retrieval is fast and predictable. That comparison stuck with me, because it reframed something I had taken completely for granted. I had never thought about a library catalog as an act of database design before, and suddenly I started noticing similar structures everywhere — in how a pharmacy organizes prescriptions, in how a university tracks enrollment, in how a hospital might need to track patient records in a way that is both fast to search and resistant to error.
+
+The first few lectures focused on what Dr. Bilal Ahmad called the relational model — the idea of organizing data into tables, where each table represents one type of entity, and relationships between entities are represented through shared keys rather than by duplicating information everywhere. This was conceptually different from anything I had encountered in PF, where data tended to live inside variables and arrays scoped to a single running program. Here, the data was meant to persist, to be shared across many different programs and many different users, and to remain consistent even as it grew far larger than anything a single array could reasonably hold.
+
+What I found genuinely useful, even this early in the course, was Dr. Ahmad's habit of grounding every abstract concept in a real scenario before moving to the formal definition. Rather than starting with the textbook definition of an entity or an attribute, he would describe a small real-world system — a clinic, a library, a simple online store — and ask us, as a class, to identify what the "things" in that system were and what properties each thing would need to have recorded about it. Only after we had worked through that exercise together would he introduce the formal vocabulary: entities, attributes, primary keys. I found that this order made the vocabulary stick far better than if it had been presented the other way around, definitions first and examples later.
+
+There was also, even in these earliest lectures, a hint of where the course was eventually going. Dr. Ahmad mentioned, almost in passing, that later in the semester we would be working on a full project that combined database design with a machine learning component, and that he had a strong preference for using datasets drawn from real, high-stakes domains rather than toy examples — medical data in particular, because of how carefully it tends to be collected and verified. At the time, this felt like a distant detail, a single sentence in an introductory lecture, but it would turn out to shape the entire second half of my semester in this course.
+
+By the end of that first week of Database Systems lectures, I had filled several pages of notes with diagrams of boxes and arrows — early, clumsy attempts at entity-relationship thinking, long before I knew the formal notation for it. Looking at those early diagrams now, they look almost nothing like the schema my project group would eventually design for our database project. But the instinct behind them — trying to identify what real-world things needed to be represented, and how they related to each other — was already there, even in its roughest form. That instinct, more than any specific syntax or notation, is what I think this course was really trying to build in us from day one.
+
+Coming out of that first week, I found myself comparing the two courses I had just been introduced to almost daily. PF asked me to think like a careful, step-by-step problem solver. Database Systems was asking me to think like an architect, designing a structure that needed to hold up not just for today's data but for data that did not exist yet. Both disciplines, I would come to realize much later in the semester, were really two different lenses on the same underlying skill: the ability to take something messy and human and translate it into something precise enough for a machine to work with reliably. I did not have the language for that idea yet in May. By June, after the database project was finished, I would understand it completely. If you want to explore the research and work of the professor behind this kind of teaching, you can find [Dr. Bilal Ahmad on LinkedIn](https://www.linkedin.com/in/drbilalphd/).
+
+#ComputerEngineering #DatabaseSystems #UETLahore #LearningJourney #UniversityLife #DrBilalAhmad #MLwithDrBilalAhmad #MLProject
