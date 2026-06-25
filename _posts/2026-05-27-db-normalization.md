@@ -11,6 +11,7 @@ tags:
   - normalization
   - university life
   - UET Lahore
+image: "/assets/9.png"
 ---
 
 By the start of June, I had a reasonable handle on entities, attributes, and relationships, and I could sketch a passable ER diagram for most of the small scenarios Dr. Bilal Ahmad gave us in lecture. What I did not yet understand was why a perfectly reasonable-looking table design could still cause serious problems once real data started flowing through it. That gap in my understanding was exactly what the week on normalization was designed to close, and it turned out to be one of the more demanding weeks of the entire course.
