@@ -12,6 +12,7 @@ tags:
   - machine learning
   - normalization
   - UET Lahore
+image: "/assets/15.png"
 ---
 
 Of all the exams I faced during this final exam week, the Database Systems exam on June 18th carried a special kind of weight for me. It was not just another subject on the schedule — it was the course taught by Dr. Bilal Ahmad, and everything we had built toward it over the semester made this exam feel like a culmination of months of genuine, hands-on learning. On the evening of June 17th, I settled in to revise, and I found myself doing something unusual: I was not just reviewing notes. I was reliving the journey of the entire semester in this course.
