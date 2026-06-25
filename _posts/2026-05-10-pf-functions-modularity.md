@@ -11,6 +11,7 @@ tags:
   - PF
   - university life
   - UET Lahore
+image: "/assets/2.png"
 ---
 
 There is a moment in learning to program when a switch quietly flips, and you stop thinking of a program as one long sequence of instructions and start thinking of it as a collection of smaller, well-defined pieces that work together. For me, that moment arrived during the week we spent on functions in Programming Fundamentals, and it changed how I approached every single assignment that came after it, in this course and beyond.
