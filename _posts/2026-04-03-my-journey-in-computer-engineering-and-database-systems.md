@@ -5,7 +5,7 @@ date: 2026-04-03
 categories: [portfolio, university]
 tags: [computer engineering, machine learning, database systems, programming]
 ---
-image: "/assets/FSD.jpg"
+/assets/FSD.jpg"
 ---
 
 ## My Journey Of Computer Engineering & Database Systems:
