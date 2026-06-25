@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Arrays in programming fundamentals"
-date: 2026-06-02
+date: 2026-05-15
 categories:
   - portfolio
   - university
