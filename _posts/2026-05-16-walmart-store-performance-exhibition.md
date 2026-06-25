@@ -12,6 +12,7 @@ tags:
   - data science
   - python
   - UET Lahore
+image: "/assets/5.png"
 ---
 
 The first-semester exhibition was the point where Programming Fundamentals stopped being something we practiced in isolated exercises and turned into something we had to actually deliver as a group. My team decided early on that we wanted a project with a real business angle rather than a purely academic toy problem, and we settled on something that felt both ambitious and genuinely useful: building a small model around Walmart store data to figure out which of roughly forty stores were actually making money, which ones were barely breaking even, and which ones were quietly losing it. Looking back, the gap between deciding on that idea in a planning meeting and actually getting a working notebook in front of the exhibition panel was a lot bigger than any of us expected going in.
