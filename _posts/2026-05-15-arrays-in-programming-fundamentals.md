@@ -12,6 +12,7 @@ tags:
   - data structures
   - university life
   - UET Lahore
+image: "/assets/4.png"
 ---
 
 There comes a point in any introductory programming course where you stop being able to solve problems by simply declaring a handful of named variables, and you need a way to hold many related values together as a single collection. For me, that point arrived with arrays, introduced in Programming Fundamentals during the first days of June, just as I was also deep in normalization theory on the database side of my semester. Looking back, it is a small irony that both courses, in entirely different ways, were teaching me the same underlying lesson that same week: that organizing many pieces of related data correctly matters just as much as handling any single piece of data correctly.
