@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "My First Encounter with Database Systems"
-date: 2026-05-22
+date: 2026-06-23
 categories:
   - portfolio
   - university
