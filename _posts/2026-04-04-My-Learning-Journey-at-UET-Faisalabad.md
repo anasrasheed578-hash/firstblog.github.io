@@ -1,16 +1,16 @@
+---
 layout: post
 title: "My Learning Journey at UET Faisalabad"
 date: 2026-04-04
-
 categories:
-portfolio
-university
-projects
-
+ - portfolio
+ - university
+ - projects
 tags:
-computer engineering
-uet faisalabad
-
+ - computer engineering
+ - uet faisalabad
+--- 
+ 
 # My Learning Journey at UET Faisalabad: From Python Programming to Machine Learning and Database Systems
 
 When I joined UET Lahore Faisalabad Campus as a Computer Engineering student, I knew that university life would be different from college, but I did not fully understand how much it would change the way I think and learn. Looking back at my journey so far, I can confidently say that my time at UET Faisalabad has been full of challenges, growth, practical learning, and valuable experiences that have helped me develop both technical and problem-solving skills.
