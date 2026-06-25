@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "When the Logic Doesn't Loop Right: Wrestling with Conditionals in PF"
+title: "Pf loops conditionals"
 date: 2026-05-25
 categories:
   - portfolio
