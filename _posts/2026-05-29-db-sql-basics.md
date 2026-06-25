@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Speaking to a Database: My First Real SQL Queries"
+title: "My First SQL Queries"
 date: 2026-05-29
 categories:
   - portfolio
@@ -11,6 +11,7 @@ tags:
   - SQL
   - university life
   - UET Lahore
+image: "/assets/10.png"
 ---
 
 After weeks of drawing ER diagrams and working through normalization rules on paper, there was something deeply satisfying about finally typing a command that a real database engine would actually execute. SQL, introduced to us in early June, was the moment Database Systems stopped being a course about designing structures in the abstract and became a course about actually building and querying something real. I remember feeling, during the first lab session of this unit, a small thrill at watching a table I had defined myself appear, fully formed, after running a single command.
