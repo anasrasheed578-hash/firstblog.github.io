@@ -10,6 +10,7 @@ tags:
   - database systems
   - university life
   - UET Lahore
+image: "/assets/7.png"
 ---
 
 Two days after my first real struggle in Programming Fundamentals, I sat in a very different kind of lecture hall, listening to a very different kind of opening statement. Database Systems was being introduced to us for the first time, and within the first ten minutes of that first lecture, I could already tell this course was going to ask something different of me than PF had. PF wanted me to think in sequences of action. This course, from the very start, wanted me to think in structure.
