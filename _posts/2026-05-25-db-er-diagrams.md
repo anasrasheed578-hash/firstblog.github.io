@@ -11,6 +11,7 @@ tags:
   - ER diagrams
   - university life
   - UET Lahore
+image: "/assets/8.png"
 ---
 
 By the time entity-relationship diagrams were introduced in our Database Systems lectures, I had already developed a rough, instinctive sense of what a database was trying to do, built from the first week of the course and reinforced by my own clumsy early sketches of boxes and arrows. What this week added was a formal language for that instinct — a set of rules and notations that turned my vague drawings into something precise enough that another person could look at them and understand exactly what I meant.
