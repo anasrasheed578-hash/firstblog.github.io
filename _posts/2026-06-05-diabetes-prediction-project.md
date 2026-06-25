@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "From SQL to Predictions: Building a Diabetes Patient Prediction System"
+title: "Building a Diabetes Patient Prediction System"
 date: 2026-06-05
 categories:
   - portfolio
@@ -13,6 +13,7 @@ tags:
   - Python
   - medical AI
   - UET Lahore
+image: "/assets/13.png"
 ---
 
 The Database Systems semester project was the most technically ambitious thing I worked on during my first year of Computer Engineering. My group and I built a complete diabetes patient prediction system — a project that combined relational database design, normalization theory, SQL, Python, machine learning, and a web-based user interface all into one working application. Looking back at it now, after the semester has ended and the exams are behind us, I can say with confidence that this project was the most educational and the most demanding thing I did all year.
